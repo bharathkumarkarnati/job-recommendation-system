@@ -1,0 +1,12 @@
+__pycache__/
+.vscode/
+*.pyc
+clean_dataset.py
+create_dataset.py
+evaluate_model.py
+explore_dataset.py
+model_comparison.py
+prepare_data.py
+save_model.py
+train_model.py
+dataset/job_profiles.csv
